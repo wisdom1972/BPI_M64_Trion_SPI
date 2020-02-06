@@ -88,7 +88,17 @@ Other features :
 
 －　It is cost effective ARM64bit SBC, it have better performance than Raspberry Pi 3
 
-![Banana Pi M64](./BPI-M64_small.jpg)
+```
+Key Features:
+Allwinner A64 1.2 Ghz Quad-Core ARM Cortex A53
+Dual core Mali 400 MP2
+8GB eMMC
+2GB DDR
+WiFi 802.11 b/g/n/ac BT4.0
+10/100/1000Mbps Ethernet
+```
+
+![Banana Pi M64](./m64-ov1.png)
 
 
 ## 注册通过后，可以下载芯片手册以及软件资料。

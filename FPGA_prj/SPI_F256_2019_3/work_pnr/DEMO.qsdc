@@ -1,0 +1,32 @@
+clock {
+  name: "clk"
+  period: 1000
+  target_pin {
+    cell: "clk"
+    port: "INPAD"
+  }
+  origin: SDC
+  uncertainty {
+    value: 120
+  }
+}
+clock {
+  name: "jtag_inst1_TCK"
+  period: 1000
+  target_pin {
+    cell: "jtag_inst1_TCK"
+    port: "INPAD"
+  }
+  origin: SDC
+  uncertainty {
+    value: 120
+  }
+}
+clock {
+  name: "virtual_io_clock"
+  period: 1000
+  origin: SDC
+  uncertainty {
+    value: 120
+  }
+}

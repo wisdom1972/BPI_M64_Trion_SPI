@@ -1,0 +1,22 @@
+[dumpfile] "/home/wisdom/2019.3/project/demo_spi/FPGA_prj/SPI_F256_2019_3/la0_waveform.vcd"
+[dumpfile_mtime] "Thu Feb 06 11:13:56 2020"
+[dumpfile_size] 623
+[savefile] "/home/wisdom/2019.3/project/demo_spi/FPGA_prj/SPI_F256_2019_3/la0_waveform.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 c 40960 122880 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[signals_width] 126
+[sst_expanded] 1
+@22
+top.spi_slave/mosi_d0
+top.spi_slave/spi_clk_d0
+top.spi_slave/spi_ss_d0
+top.data_o[7:0]
+top.data_en_o
+top.spi_slave/cnt[3:0]
+top.spi_slave/state[1:0]
+top.spi_slave/clk_raise
+top.spi_slave/clk_fall
+top.spi_slave/ss_raise
+top.spi_slave/ss_fall

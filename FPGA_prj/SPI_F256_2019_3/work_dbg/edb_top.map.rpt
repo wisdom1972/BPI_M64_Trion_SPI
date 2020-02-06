@@ -1,0 +1,216 @@
+Synthesis report for project edb_top
+Date : Feb 5 2020  15:52:7
+Copyright (C) 2013 - 2019 Efinix Inc. All rights reserved.
+
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+Top-level Entity Name : edb_top
+### ### File List (begin) ### ### ###
+F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v
+### ### File List (end) ### ### ###
+
+### ### Pre-optimizations and mapping (begin) ### ### ###
+"MEM|SYN-0677" : Zero initialization of uninitialized memory block 'ram'."
+@ F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v (440)"
+
+Mapping success.
+### ### Mapping (end) ### ### ###
+
+### ### Post-optimizations and re-synthesis (begin) ### ### ###
+
+Post-optimizations and re-synthesis success.
+### ### Post-optimizations and re-synthesis (end) ### ### ###
+
+### ### EFX_FF CE enables (begin) ### ### ###
+Total number of enable signals: 56
+Enable signal <n2879>, number of controlling flip flops: 3
+Enable signal <n2882>, number of controlling flip flops: 21
+Enable signal <n2887>, number of controlling flip flops: 64
+Enable signal <n2889>, number of controlling flip flops: 22
+Enable signal <n2892>, number of controlling flip flops: 28
+Enable signal <n2898>, number of controlling flip flops: 4
+Enable signal <n2900>, number of controlling flip flops: 6
+Enable signal <n2903>, number of controlling flip flops: 16
+Enable signal <n2905>, number of controlling flip flops: 64
+Enable signal <vcc>, number of controlling flip flops: 263
+Enable signal <n2909>, number of controlling flip flops: 3
+Enable signal <n2911>, number of controlling flip flops: 64
+Enable signal <n2912>, number of controlling flip flops: 64
+Enable signal <n2913>, number of controlling flip flops: 3
+Enable signal <n2914>, number of controlling flip flops: 64
+Enable signal <n2915>, number of controlling flip flops: 64
+Enable signal <n2916>, number of controlling flip flops: 3
+Enable signal <n2917>, number of controlling flip flops: 64
+Enable signal <n2918>, number of controlling flip flops: 64
+Enable signal <n2919>, number of controlling flip flops: 3
+Enable signal <n2920>, number of controlling flip flops: 64
+Enable signal <n2921>, number of controlling flip flops: 64
+Enable signal <n2922>, number of controlling flip flops: 3
+Enable signal <n2923>, number of controlling flip flops: 64
+Enable signal <n2924>, number of controlling flip flops: 64
+Enable signal <n2925>, number of controlling flip flops: 3
+Enable signal <n2926>, number of controlling flip flops: 64
+Enable signal <n2927>, number of controlling flip flops: 64
+Enable signal <n2928>, number of controlling flip flops: 3
+Enable signal <n2929>, number of controlling flip flops: 64
+Enable signal <n2930>, number of controlling flip flops: 64
+Enable signal <n2931>, number of controlling flip flops: 3
+Enable signal <n2932>, number of controlling flip flops: 64
+Enable signal <n2933>, number of controlling flip flops: 64
+Enable signal <n2934>, number of controlling flip flops: 3
+Enable signal <n2935>, number of controlling flip flops: 64
+Enable signal <n2936>, number of controlling flip flops: 64
+Enable signal <n2937>, number of controlling flip flops: 3
+Enable signal <n2938>, number of controlling flip flops: 64
+Enable signal <n2939>, number of controlling flip flops: 64
+Enable signal <n2940>, number of controlling flip flops: 3
+Enable signal <n2941>, number of controlling flip flops: 64
+Enable signal <n2942>, number of controlling flip flops: 64
+Enable signal <n2947>, number of controlling flip flops: 13
+Enable signal <n3128>, number of controlling flip flops: 32
+Enable signal <n3334>, number of controlling flip flops: 14
+Enable signal <n3338>, number of controlling flip flops: 24
+Enable signal <n3344>, number of controlling flip flops: 2
+Enable signal <n3347>, number of controlling flip flops: 1
+Enable signal <n3398>, number of controlling flip flops: 13
+Enable signal <n3401>, number of controlling flip flops: 13
+Enable signal <n3404>, number of controlling flip flops: 13
+Enable signal <n3407>, number of controlling flip flops: 28
+Enable signal <n3557>, number of controlling flip flops: 1
+Enable signal <n3977>, number of controlling flip flops: 4
+Enable signal <n3980>, number of controlling flip flops: 82
+### ### EFX FF CE enables (end) ### ### ###
+
+### ### Sequential Elements Trimming Report (begin) ### ### ### 
+FF Output: la0/data_from_biu[23](=1)
+FF Output: la0/data_from_biu[24](=1)
+FF Output: la0/data_from_biu[25](=1)
+FF Output: la0/data_from_biu[26](=1)
+FF Output: la0/data_from_biu[27](=1)
+FF Output: la0/data_from_biu[28](=1)
+FF Output: la0/data_from_biu[29](=1)
+FF Output: la0/data_from_biu[30](=1)
+FF Output: la0/data_from_biu[31](=1)
+FF Output: la0/data_from_biu[32](=1)
+FF Output: la0/data_from_biu[33](=1)
+FF Output: la0/data_from_biu[34](=1)
+FF Output: la0/data_from_biu[35](=1)
+FF Output: la0/data_from_biu[36](=1)
+FF Output: la0/data_from_biu[37](=1)
+FF Output: la0/data_from_biu[38](=1)
+FF Output: la0/data_from_biu[39](=1)
+FF Output: la0/data_from_biu[40](=1)
+FF Output: la0/data_from_biu[41](=1)
+FF Output: la0/data_from_biu[42](=1)
+FF Output: la0/data_from_biu[43](=1)
+FF Output: la0/data_from_biu[44](=1)
+FF Output: la0/data_from_biu[45](=1)
+FF Output: la0/data_from_biu[46](=1)
+FF Output: la0/data_from_biu[47](=1)
+FF Output: la0/data_from_biu[48](=1)
+FF Output: la0/data_from_biu[49](=1)
+FF Output: la0/data_from_biu[50](=1)
+FF Output: la0/data_from_biu[51](=1)
+FF Output: la0/data_from_biu[52](=1)
+FF Output: la0/data_from_biu[53](=1)
+FF Output: la0/data_from_biu[54](=1)
+FF Output: la0/data_from_biu[55](=1)
+FF Output: la0/data_from_biu[56](=1)
+FF Output: la0/data_from_biu[57](=1)
+FF Output: la0/data_from_biu[58](=1)
+FF Output: la0/data_from_biu[59](=1)
+FF Output: la0/data_from_biu[60](=1)
+FF Output: la0/data_from_biu[61](=1)
+FF Output: la0/data_from_biu[62](=1)
+FF Output: la0/data_from_biu[63](=1)
+FF instance: la0/address_counter[28]~FF(unreachable)
+FF instance: la0/address_counter[29]~FF(unreachable)
+FF instance: la0/address_counter[30]~FF(unreachable)
+FF instance: la0/address_counter[31]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[0]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/segment_rd_pointer[13]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/segment_wr_pointer[13]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[1]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[2]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[3]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[4]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[5]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[6]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[7]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[8]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[9]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[10]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[11]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[12]~FF(unreachable)
+FF instance: la0/la_biu_inst/fifo_with_read_inst/next_segment_wr_pointer[13]~FF(unreachable)
+### ### Sequential Elements Trimming Report (end) ### ### ### 
+
+### ### Module Resource Usage Distribution Estimates (begin) ### ###
+
+**Note: some resources maybe grouped under different hierarchy due to optimization and LUT mapping
+
+Module                                                               FFs        ADDs        LUTs      RAMs     MULTs
+------------------------------------------------------------         ---        ----        ----      ----     -----
+edb_top:edb_top                                                  2172(0)      269(0)     2265(0)     46(0)      0(0)
++edb_la_top(NUM_PROBES=11,DATA_DEPTH=8192,INPUT_PIPE_STAG...  2086(1774)     264(62)  2231(1813)     46(0)      0(0)
+ +axi_crc_i:adbg_crc32                                            32(32)        0(0)      56(56)      0(0)      0(0)
+ +GEN_PROBE[0].trigger_cu:compare_unit(WIDTH=11'b01,PIPE=1)         8(8)        0(0)        8(8)      0(0)      0(0)
+ +GEN_PROBE[1].trigger_cu:compare_unit(WIDTH=11'b01,PIPE=1)         7(7)        0(0)        8(8)      0(0)      0(0)
+ +GEN_PROBE[2].trigger_cu:compare_unit(WIDTH=11'b01,PIPE=1)         7(7)        0(0)        8(8)      0(0)      0(0)
+                    +compare_unit(WIDTH=11'b01000,PIPE=1)...      21(21)        0(0)      27(27)      0(0)      0(0)
+ +GEN_PROBE[4].trigger_cu:compare_unit(WIDTH=11'b01,PIPE=1)         7(7)        0(0)        8(8)      0(0)      0(0)
+                     +compare_unit(WIDTH=11'b0100,PIPE=1)...      13(13)        0(0)      17(17)      0(0)      0(0)
+ +GEN_PROBE[6].trigger_cu:compare_unit(WIDTH=11'b010,PIPE=1)        9(9)        0(0)      10(10)      0(0)      0(0)
+ +GEN_PROBE[7].trigger_cu:compare_unit(WIDTH=11'b01,PIPE=1)         7(7)        0(0)      10(10)      0(0)      0(0)
+ +GEN_PROBE[8].trigger_cu:compare_unit(WIDTH=11'b01,PIPE=1)         7(7)        0(0)      10(10)      0(0)      0(0)
+ +GEN_PROBE[9].trigger_cu:compare_unit(WIDTH=11'b01,PIPE=1)         7(7)        0(0)        9(9)      0(0)      0(0)
+ +GEN_PROBE[10].trigger_cu:compare_unit(WIDTH=11'b01,PIPE=1)        9(9)        0(0)        9(9)      0(0)      0(0)
+ +trigger_tu:trigger_unit(WIDTH=11,PIPE=1)                          1(1)        0(0)        2(2)      0(0)      0(0)
+ +la_biu_inst:la_biu(CAPTURE_WIDTH=22,DATA_DEPTH=8192)           177(58)    202(103)     236(92)     46(0)      0(0)
+             +fifo_with_read(DATA_WIDTH=23,ADDR_WIDTH=13)...     119(93)      99(93)     144(75)     46(0)      0(0)
+   +fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_A...        0(0)        6(6)        7(7)      0(0)      0(0)
+   +fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_A...      13(13)        0(0)      14(14)      0(0)      0(0)
+   +fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_A...      13(13)        0(0)      25(25)      0(0)      0(0)
+   +simple_dual_port_ram(DATA_WIDTH=23,ADDR_WIDTH=13,RAM_...        0(0)        0(0)      23(23)    46(46)      0(0)
++debug_hub_inst:debug_hub                                         86(86)        5(5)      34(34)      0(0)      0(0)
+
+### ### Module Resource Usage Distribution Estimates (end) ### ###
+
+### ### Clock Load Distribution Report (begin) ### ###
+
+     Clock     Flip-Flops   Memory Ports    Multipliers
+     -----     ----------   ------------    -----------
+ bscan_TCK           1822              0              0
+   la0_clk            350             92              0
+
+### ### Clock Load Distribution Report (end) ### ###
+
+### ### EFX Flow Options (begin) ### ### ###
+
+family : Trion
+project : edb_top
+root : edb_top
+output-dir : F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/outflow
+work-dir : F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg
+insert-ios : 0
+num_mult18 : -1
+num_ram_5k : -1
+
+### ### EFX Flow Options (end) ### ### ###
+
+### ### Resource Summary (begin) ### ### ### 
+INPUT  PORTS    : 	33
+OUTPUT PORTS    : 	1
+
+EFX_ADD         : 	269
+EFX_LUT4        : 	2265
+   1-2  Inputs  : 	248
+   3    Inputs  : 	500
+   4    Inputs  : 	1517
+EFX_FF          : 	2172
+EFX_RAM_5K      : 	46
+EFX_GBUFCE      : 	2
+### ### Resource Summary (end) ### ### ###
+
+Plain synthesis (without verilog dump and post-map checks) time : 32s
+Elapsed synthesis time : 40s

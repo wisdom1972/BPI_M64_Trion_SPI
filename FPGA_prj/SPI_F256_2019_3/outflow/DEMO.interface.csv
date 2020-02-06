@@ -1,0 +1,24 @@
+
+# Efinity Interface Configuration
+# Version: 2019.3.272
+# Date: 2020-02-05 15:53
+
+# Copyright (C) 2017 - 2019 Efinix Inc. All rights reserved.
+
+# [required] (input|output|clkout), x, y, z, __bypass__|[~|!]<clock>, [[~|!]<pin_name>] | __vcc__ | __gnd__
+input, 160, 118, 1, __bypass__, clk
+input, 0, 6, 3, __bypass__, jtag_inst1_CAPTURE
+input, 0, 2, 3, __bypass__, jtag_inst1_DRCK
+input, 0, 4, 3, __bypass__, jtag_inst1_RESET
+input, 0, 5, 1, __bypass__, jtag_inst1_RUNTEST
+input, 0, 2, 1, __bypass__, jtag_inst1_SEL
+input, 0, 5, 3, __bypass__, jtag_inst1_SHIFT
+input, 0, 4, 1, __bypass__, jtag_inst1_TCK
+input, 0, 3, 1, __bypass__, jtag_inst1_TDI
+output, 0, 2, 0, __bypass__, jtag_inst1_TDO
+input, 0, 3, 3, __bypass__, jtag_inst1_TMS
+input, 0, 6, 1, __bypass__, jtag_inst1_UPDATE
+input, 0, 182, 1, __bypass__, mosi_i
+input, 147, 0, 3, __bypass__, rstn
+input, 0, 177, 1, __bypass__, spi_clk_i
+input, 0, 187, 1, __bypass__, spi_ss_i

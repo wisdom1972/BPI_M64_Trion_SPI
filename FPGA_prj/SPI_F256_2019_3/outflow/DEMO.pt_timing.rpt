@@ -1,0 +1,46 @@
+
+Efinity Interface Designer Timing Report
+Version: 2019.3.272
+Date: 2020-02-05 15:53
+
+Copyright (C) 2017 - 2019 Efinix Inc. All rights reserved.
+
+Device: T20F256
+Project: DEMO
+Timing Model: C4 (final)
+
+---------- 1. PLL Timing Report (begin) ----------
+
++-------+-------------+-----------------------+
+| Clock | Period (ns) | Phase Shift (degrees) |
++-------+-------------+-----------------------+
+|  clk  |    100.00   |           0           |
++-------+-------------+-----------------------+
+
+---------- PLL Timing Report (end) ----------
+
+---------- 2. GPIO Timing Report (begin) ----------
+
+Non-registered GPIO Configuration:
+===================================
+
++---------------+-----------+-----------+----------+----------+
+| Instance Name |  Pin Name | Parameter | Max (ns) | Min (ns) |
++---------------+-----------+-----------+----------+----------+
+|     mosi_i    |   mosi_i  |  GPIO_IN  |  1.396   |  0.698   |
+|   spi_clk_i   | spi_clk_i |  GPIO_IN  |  1.396   |  0.698   |
+|    spi_ss_i   |  spi_ss_i |  GPIO_IN  |  1.396   |  0.698   |
++---------------+-----------+-----------+----------+----------+
+
+---------- GPIO Timing Report (end) ----------
+
+---------- 3. JTAG Timing Report (begin) ----------
+
++---------------+----------------+-----------+----------+----------+
+| Instance Name |    Pin Name    | Parameter | Max (ns) | Min (ns) |
++---------------+----------------+-----------+----------+----------+
+|   jtag_inst1  | jtag_inst1_TDI |  JTAG_IN  |  2.415   |  1.208   |
+|   jtag_inst1  | jtag_inst1_TMS |  JTAG_IN  |  1.755   |  0.877   |
++---------------+----------------+-----------+----------+----------+
+
+---------- JTAG Timing Report (end) ----------

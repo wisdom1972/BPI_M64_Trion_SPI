@@ -1,0 +1,328 @@
+# Reading C:/modeltech64_10.4/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+do sim_compile.do
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work work 
+# Copying C:/modeltech64_10.4/win64/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:/modeltech64_10.4/win64/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 17:27:40 on Dec 03,2019
+# vlog -reportprogress 300 clk_gen.v spi_master_sim.v spi_slave.v sw_top_tb.v top_tb.v 
+# -- Compiling module clk_gen
+# -- Compiling module spi_master_sim
+# -- Compiling module spi_slave
+# ** Error: (vlog-13069) spi_slave.v(21): near "output": syntax error, unexpected output, expecting ')'.
+# 
+# -- Compiling module sw_top_tb
+# -- Compiling module top_tb
+# ** Error: (vlog-13069) top_tb.v(68): near ".": syntax error, unexpected '.', expecting ')'.
+# 
+# End time: 17:27:40 on Dec 03,2019, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/modeltech64_10.4/win64/vlog failed.
+# Error in macro ./sim_compile.do line 5
+# C:/modeltech64_10.4/win64/vlog failed.
+#     while executing
+# "vlog *.v"
+do sim_compile.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 17:27:53 on Dec 03,2019
+# vlog -reportprogress 300 clk_gen.v spi_master_sim.v spi_slave.v sw_top_tb.v top_tb.v 
+# -- Compiling module clk_gen
+# -- Compiling module spi_master_sim
+# -- Compiling module spi_slave
+# -- Compiling module sw_top_tb
+# -- Compiling module top_tb
+# ** Error: (vlog-13069) top_tb.v(68): near ".": syntax error, unexpected '.', expecting ')'.
+# 
+# End time: 17:27:53 on Dec 03,2019, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/modeltech64_10.4/win64/vlog failed.
+# Error in macro ./sim_compile.do line 5
+# C:/modeltech64_10.4/win64/vlog failed.
+#     while executing
+# "vlog *.v"
+do sim_compile.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 17:30:17 on Dec 03,2019
+# vlog -reportprogress 300 clk_gen.v spi_master_sim.v spi_slave.v sw_top_tb.v top_tb.v 
+# -- Compiling module clk_gen
+# -- Compiling module spi_master_sim
+# -- Compiling module spi_slave
+# -- Compiling module sw_top_tb
+# -- Compiling module top_tb
+# 
+# Top level modules:
+# 	sw_top_tb
+# 	top_tb
+# End time: 17:30:19 on Dec 03,2019, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do sim_simulate.do
+# vsim -gui 
+# Start time: 17:30:25 on Dec 03,2019
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Note: (vopt-143) Recognized 1 FSM in module "spi_slave(fast)".
+# 
+# ** Note: (vopt-143) Recognized 1 FSM in module "spi_master_sim(fast)".
+# 
+# Loading work.top_tb(fast)
+# Loading work.clk_gen(fast)
+# Loading work.spi_master_sim(fast)
+# Loading work.clk_gen(fast__1)
+# Loading work.spi_slave(fast)
+# ** Error: Cannot open macro file: wave.do
+# Error in macro ./sim_simulate.do line 5
+# Cannot open macro file: wave.do
+#     while executing
+# "do {wave.do}"
+do sim_simulate.do
+# vsim 
+# Start time: 17:31:41 on Dec 03,2019
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# 
+# Loading work.top_tb(fast)
+# Loading work.clk_gen(fast)
+# Loading work.spi_master_sim(fast)
+# Loading work.clk_gen(fast__1)
+# Loading work.spi_slave(fast)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# Break key hit
+# Break in Module clk_gen at clk_gen.v line 20
+add wave sim:/top_tb/spi_master_sim/*
+add wave sim:/top_tb/spi_slave/*
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf F:/efinity_prj/rasp_pi/I2c/spi_sim/wave.do
+restart
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# 
+# Loading work.top_tb(fast)
+# Loading work.clk_gen(fast)
+# Loading work.spi_master_sim(fast)
+# Loading work.clk_gen(fast__1)
+# Loading work.spi_slave(fast)
+run -all
+# Break key hit
+# Break in Module clk_gen at clk_gen.v line 20
+# Break key hit
+do sim_compile.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 17:37:18 on Dec 03,2019
+# vlog -reportprogress 300 clk_gen.v spi_master_sim.v spi_slave.v sw_top_tb.v top_tb.v 
+# -- Compiling module clk_gen
+# -- Compiling module spi_master_sim
+# -- Compiling module spi_slave
+# -- Compiling module sw_top_tb
+# -- Compiling module top_tb
+# 
+# Top level modules:
+# 	sw_top_tb
+# 	top_tb
+# End time: 17:37:18 on Dec 03,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+do sim_simulate.do
+# vsim 
+# Start time: 17:37:29 on Dec 03,2019
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# ** Note: (vopt-143) Recognized 1 FSM in module "spi_master_sim(fast)".
+# 
+# Loading work.top_tb(fast)
+# Loading work.clk_gen(fast)
+# Loading work.spi_master_sim(fast)
+# Loading work.clk_gen(fast__1)
+# Loading work.spi_slave(fast)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : top_tb.v(74)
+#    Time: 9800 ns  Iteration: 0  Instance: /top_tb
+# Break in Module top_tb at top_tb.v line 74
+# Causality operation skipped due to absence of debug database file
+do sim_compile.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 17:42:27 on Dec 03,2019
+# vlog -reportprogress 300 clk_gen.v spi_master_sim.v spi_slave.v sw_top_tb.v top_tb.v 
+# -- Compiling module clk_gen
+# -- Compiling module spi_master_sim
+# -- Compiling module spi_slave
+# -- Compiling module sw_top_tb
+# -- Compiling module top_tb
+# 
+# Top level modules:
+# 	sw_top_tb
+# 	top_tb
+# End time: 17:42:27 on Dec 03,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+do sim_simulate.do
+# vsim 
+# Start time: 17:42:41 on Dec 03,2019
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# ** Note: (vopt-143) Recognized 1 FSM in module "spi_slave(fast)".
+# 
+# ** Note: (vopt-143) Recognized 1 FSM in module "spi_master_sim(fast)".
+# 
+# Loading work.top_tb(fast)
+# Loading work.clk_gen(fast)
+# Loading work.spi_master_sim(fast)
+# Loading work.clk_gen(fast__1)
+# Loading work.spi_slave(fast)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : top_tb.v(77)
+#    Time: 10400 ns  Iteration: 0  Instance: /top_tb
+# Break in Module top_tb at top_tb.v line 77
+do sim_compile.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 17:45:01 on Dec 03,2019
+# vlog -reportprogress 300 clk_gen.v spi_master_sim.v spi_slave.v sw_top_tb.v top_tb.v 
+# -- Compiling module clk_gen
+# -- Compiling module spi_master_sim
+# -- Compiling module spi_slave
+# -- Compiling module sw_top_tb
+# -- Compiling module top_tb
+# 
+# Top level modules:
+# 	sw_top_tb
+# 	top_tb
+# End time: 17:45:01 on Dec 03,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+do sim_simulate.do
+# vsim 
+# Start time: 17:45:10 on Dec 03,2019
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# ** Note: (vopt-143) Recognized 1 FSM in module "spi_slave(fast)".
+# 
+# Loading work.top_tb(fast)
+# Loading work.clk_gen(fast)
+# Loading work.spi_master_sim(fast)
+# Loading work.clk_gen(fast__1)
+# Loading work.spi_slave(fast)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : top_tb.v(77)
+#    Time: 10400 ns  Iteration: 0  Instance: /top_tb
+# Break in Module top_tb at top_tb.v line 77
+do sim_compile.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 17:48:46 on Dec 03,2019
+# vlog -reportprogress 300 clk_gen.v spi_master_sim.v spi_slave.v sw_top_tb.v top_tb.v 
+# -- Compiling module clk_gen
+# -- Compiling module spi_master_sim
+# -- Compiling module spi_slave
+# -- Compiling module sw_top_tb
+# -- Compiling module top_tb
+# 
+# Top level modules:
+# 	sw_top_tb
+# 	top_tb
+# End time: 17:48:46 on Dec 03,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+do sim_simulate.do
+# vsim 
+# Start time: 17:48:57 on Dec 03,2019
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# ** Note: (vopt-143) Recognized 1 FSM in module "spi_slave(fast)".
+# 
+# Loading work.top_tb(fast)
+# Loading work.clk_gen(fast)
+# Loading work.spi_master_sim(fast)
+# Loading work.clk_gen(fast__1)
+# Loading work.spi_slave(fast)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : top_tb.v(77)
+#    Time: 10400 ns  Iteration: 0  Instance: /top_tb
+# Break in Module top_tb at top_tb.v line 77
+do sim_compile.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 17:51:27 on Dec 03,2019
+# vlog -reportprogress 300 clk_gen.v spi_master_sim.v spi_slave.v sw_top_tb.v top_tb.v 
+# -- Compiling module clk_gen
+# -- Compiling module spi_master_sim
+# -- Compiling module spi_slave
+# -- Compiling module sw_top_tb
+# -- Compiling module top_tb
+# 
+# Top level modules:
+# 	sw_top_tb
+# 	top_tb
+# End time: 17:51:27 on Dec 03,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+do sim_simulate.do
+# vsim 
+# Start time: 17:51:38 on Dec 03,2019
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# ** Note: (vopt-143) Recognized 1 FSM in module "spi_master_sim(fast)".
+# 
+# Loading work.top_tb(fast)
+# Loading work.clk_gen(fast)
+# Loading work.spi_master_sim(fast)
+# Loading work.clk_gen(fast__1)
+# Loading work.spi_slave(fast)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : top_tb.v(77)
+#    Time: 15200 ns  Iteration: 0  Instance: /top_tb
+# Break in Module top_tb at top_tb.v line 77
+# End time: 17:52:38 on Dec 03,2019, Elapsed time: 0:01:00
+# Errors: 0, Warnings: 0

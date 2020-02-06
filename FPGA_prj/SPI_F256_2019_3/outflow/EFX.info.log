@@ -1,0 +1,1512 @@
+[EFX-0009 VERI-INFO] The default VHDL library search path is now "C:/Efinity/2019.3/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 119) port 'probe5' remains unconnected for this instance (VERI-1927)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 10) compiling module 'edb_top' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 492) compiling module 'edb_la_top(NUM_PROBES=5,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 193) compiling module 'adbg_crc32' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2979) compiling module 'compare_unit(WIDTH=11'b01,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2979) compiling module 'compare_unit(WIDTH=11'b01000,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3125) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3128) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3131) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3134) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3194) compiling module 'trigger_unit(WIDTH=5,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2320) compiling module 'la_biu(CAPTURE_WIDTH=12,DATA_DEPTH=8192)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2053) compiling module 'fifo_with_read(DATA_WIDTH=13,ADDR_WIDTH=13)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2124) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2131) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2135) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2136) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2140) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2142) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2154) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2156) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2163) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2006) compiling module 'fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2031) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2034) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2246) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 401) compiling module 'simple_dual_port_ram(DATA_WIDTH=13,ADDR_WIDTH=13,RAM_INIT_FILE="")' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1057) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 271) compiling module 'debug_hub' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 94) input port 'probe5[0]' is not connected on this instance (VDB-1013)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 6) compiling module 'EFX_ADD' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 19) compiling module 'EFX_FF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 36) compiling module 'EFX_GBUFCE' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 45) compiling module 'EFX_IDDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 59) compiling module 'EFX_ODDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 75) compiling module 'EFX_IOBUF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 87) compiling module 'EFX_LUT4' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 95) compiling module 'EFX_MULT' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 130) compiling module 'EFX_RAM_4K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 190) compiling module 'EFX_RAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 262) compiling module 'EFX_DPRAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 367) compiling module 'RAMB5' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 429) compiling module 'EFX_RAM_10K' (VERI-1018)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2985) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2986) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2983) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3202) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3206) Removing unconnected net : trigger_in
+[EFX-0677 INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 416) Zero initialization of uninitialized memory block 'ram'.
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2061) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2064) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2068) Removing unconnected net : din[12]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[12]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2342) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2355) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2356) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 639) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 641) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 642) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 646) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 657) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 666) Removing unconnected net : probe5[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 667) Removing unconnected net : probe6[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 668) Removing unconnected net : probe7[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 669) Removing unconnected net : probe8[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1057) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 2s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "edb_top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=5,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=5,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=13,ADDR_WIDTH=13,RAM_INIT_FILE="")" begin
+[EFX-0000 INFO] ... Clocked Read Port Synthesis for ram net: ram
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=13,ADDR_WIDTH=13,RAM_INIT_FILE="")" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=13,ADDR_WIDTH=13)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=13,ADDR_WIDTH=13)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=12,DATA_DEPTH=8192)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=12,DATA_DEPTH=8192)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=5,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=5,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8)" end (Real time : 14s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 2s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 1s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 1410, ed: 4893, lv: 6
+[EFX-0000 INFO] ... LUT mapping end (Real time : 11s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 12s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0009 VERI-INFO] Found 3 warnings in the post-synthesis netlist.
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	269
+[EFX-0000 INFO] EFX_LUT4        : 	1402
+[EFX-0000 INFO] EFX_FF          : 	1276
+[EFX-0000 INFO] EFX_RAM_5K      : 	26
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 0, ed: 0, lv: 1
+[EFX-0000 INFO] ... LUT mapping end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 1s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	273
+[EFX-0000 INFO] EFX_LUT4        : 	1421
+[EFX-0000 INFO] EFX_FF          : 	1302
+[EFX-0000 INFO] EFX_RAM_5K      : 	26
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0009 VERI-INFO] The default VHDL library search path is now "C:/Efinity/2019.3/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 119) port 'probe5' remains unconnected for this instance (VERI-1927)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 10) compiling module 'edb_top' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 492) compiling module 'edb_la_top(NUM_PROBES=5,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 193) compiling module 'adbg_crc32' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2979) compiling module 'compare_unit(WIDTH=11'b01,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2979) compiling module 'compare_unit(WIDTH=11'b01000,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3125) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3128) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3131) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3134) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3194) compiling module 'trigger_unit(WIDTH=5,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2320) compiling module 'la_biu(CAPTURE_WIDTH=12,DATA_DEPTH=8192)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2053) compiling module 'fifo_with_read(DATA_WIDTH=13,ADDR_WIDTH=13)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2124) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2131) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2135) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2136) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2140) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2142) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2154) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2156) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2163) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2006) compiling module 'fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2031) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2034) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2246) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 401) compiling module 'simple_dual_port_ram(DATA_WIDTH=13,ADDR_WIDTH=13,RAM_INIT_FILE="")' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1057) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 271) compiling module 'debug_hub' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 94) input port 'probe5[0]' is not connected on this instance (VDB-1013)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 6) compiling module 'EFX_ADD' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 19) compiling module 'EFX_FF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 36) compiling module 'EFX_GBUFCE' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 45) compiling module 'EFX_IDDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 59) compiling module 'EFX_ODDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 75) compiling module 'EFX_IOBUF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 87) compiling module 'EFX_LUT4' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 95) compiling module 'EFX_MULT' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 130) compiling module 'EFX_RAM_4K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 190) compiling module 'EFX_RAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 262) compiling module 'EFX_DPRAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 367) compiling module 'RAMB5' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 429) compiling module 'EFX_RAM_10K' (VERI-1018)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2985) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2986) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2983) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3202) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3206) Removing unconnected net : trigger_in
+[EFX-0677 INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 416) Zero initialization of uninitialized memory block 'ram'.
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2061) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2064) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2068) Removing unconnected net : din[12]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[12]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2342) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2355) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2356) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 639) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 641) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 642) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 646) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 657) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 666) Removing unconnected net : probe5[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 667) Removing unconnected net : probe6[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 668) Removing unconnected net : probe7[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 669) Removing unconnected net : probe8[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1057) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 1s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "edb_top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=5,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=5,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=13,ADDR_WIDTH=13,RAM_INIT_FILE="")" begin
+[EFX-0000 INFO] ... Clocked Read Port Synthesis for ram net: ram
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=13,ADDR_WIDTH=13,RAM_INIT_FILE="")" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=13,ADDR_WIDTH=13)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=13,ADDR_WIDTH=13)" end (Real time : 1s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=12,DATA_DEPTH=8192)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=12,DATA_DEPTH=8192)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=5,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=5,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8)" end (Real time : 10s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 2s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 1410, ed: 4893, lv: 6
+[EFX-0000 INFO] ... LUT mapping end (Real time : 10s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 1s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 11s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0009 VERI-INFO] Found 3 warnings in the post-synthesis netlist.
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	269
+[EFX-0000 INFO] EFX_LUT4        : 	1402
+[EFX-0000 INFO] EFX_FF          : 	1276
+[EFX-0000 INFO] EFX_RAM_5K      : 	26
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 0, ed: 0, lv: 1
+[EFX-0000 INFO] ... LUT mapping end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 1s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 1s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	273
+[EFX-0000 INFO] EFX_LUT4        : 	1421
+[EFX-0000 INFO] EFX_FF          : 	1302
+[EFX-0000 INFO] EFX_RAM_5K      : 	26
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0009 VERI-INFO] The default VHDL library search path is now "C:/Efinity/2019.3/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 127) port 'probe7' remains unconnected for this instance (VERI-1927)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 10) compiling module 'edb_top' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 500) compiling module 'edb_la_top(NUM_PROBES=7,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 201) compiling module 'adbg_crc32' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2987) compiling module 'compare_unit(WIDTH=11'b01,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2987) compiling module 'compare_unit(WIDTH=11'b01000,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2987) compiling module 'compare_unit(WIDTH=11'b0100,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2987) compiling module 'compare_unit(WIDTH=11'b010,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3202) compiling module 'trigger_unit(WIDTH=7,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2328) compiling module 'la_biu(CAPTURE_WIDTH=18,DATA_DEPTH=8192)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2061) compiling module 'fifo_with_read(DATA_WIDTH=19,ADDR_WIDTH=13)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2132) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2139) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2143) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2144) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2148) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2150) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2162) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2164) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2171) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2014) compiling module 'fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2039) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2042) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2254) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 409) compiling module 'simple_dual_port_ram(DATA_WIDTH=19,ADDR_WIDTH=13,RAM_INIT_FILE="")' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1065) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 279) compiling module 'debug_hub' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 100) input port 'probe7[0]' is not connected on this instance (VDB-1013)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 6) compiling module 'EFX_ADD' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 19) compiling module 'EFX_FF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 36) compiling module 'EFX_GBUFCE' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 45) compiling module 'EFX_IDDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 59) compiling module 'EFX_ODDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 75) compiling module 'EFX_IOBUF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 87) compiling module 'EFX_LUT4' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 95) compiling module 'EFX_MULT' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 130) compiling module 'EFX_RAM_4K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 190) compiling module 'EFX_RAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 262) compiling module 'EFX_DPRAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 367) compiling module 'RAMB5' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 429) compiling module 'EFX_RAM_10K' (VERI-1018)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2993) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2994) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3210) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3214) Removing unconnected net : trigger_in
+[EFX-0677 INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 424) Zero initialization of uninitialized memory block 'ram'.
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2069) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2072) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2076) Removing unconnected net : din[18]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[18]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2350) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2363) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2364) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 647) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 649) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 650) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 654) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 665) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 676) Removing unconnected net : probe7[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 677) Removing unconnected net : probe8[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1065) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 1s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "edb_top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b0100,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b0100,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b010,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b010,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=7,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=7,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=19,ADDR_WIDTH=13,RAM_INIT_FILE="")" begin
+[EFX-0000 INFO] ... Clocked Read Port Synthesis for ram net: ram
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=19,ADDR_WIDTH=13,RAM_INIT_FILE="")" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=19,ADDR_WIDTH=13)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=19,ADDR_WIDTH=13)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=18,DATA_DEPTH=8192)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=18,DATA_DEPTH=8192)" end (Real time : 1s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=7,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=7,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)" end (Real time : 10s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 2s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 1666, ed: 5922, lv: 6
+[EFX-0000 INFO] ... LUT mapping end (Real time : 12s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 12s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0009 VERI-INFO] Found 3 warnings in the post-synthesis netlist.
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	269
+[EFX-0000 INFO] EFX_LUT4        : 	1658
+[EFX-0000 INFO] EFX_FF          : 	1596
+[EFX-0000 INFO] EFX_RAM_5K      : 	38
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 0, ed: 0, lv: 1
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 1s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 2s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	273
+[EFX-0000 INFO] EFX_LUT4        : 	1677
+[EFX-0000 INFO] EFX_FF          : 	1622
+[EFX-0000 INFO] EFX_RAM_5K      : 	38
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0009 VERI-INFO] The default VHDL library search path is now "C:/Efinity/2019.3/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 127) port 'probe7' remains unconnected for this instance (VERI-1927)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 10) compiling module 'edb_top' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 500) compiling module 'edb_la_top(NUM_PROBES=7,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 201) compiling module 'adbg_crc32' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2987) compiling module 'compare_unit(WIDTH=11'b01,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2987) compiling module 'compare_unit(WIDTH=11'b01000,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2987) compiling module 'compare_unit(WIDTH=11'b0100,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2987) compiling module 'compare_unit(WIDTH=11'b010,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3202) compiling module 'trigger_unit(WIDTH=7,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2328) compiling module 'la_biu(CAPTURE_WIDTH=18,DATA_DEPTH=8192)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2061) compiling module 'fifo_with_read(DATA_WIDTH=19,ADDR_WIDTH=13)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2132) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2139) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2143) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2144) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2148) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2150) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2162) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2164) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2171) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2014) compiling module 'fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2039) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2042) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2254) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 409) compiling module 'simple_dual_port_ram(DATA_WIDTH=19,ADDR_WIDTH=13,RAM_INIT_FILE="")' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1065) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 279) compiling module 'debug_hub' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 100) input port 'probe7[0]' is not connected on this instance (VDB-1013)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 6) compiling module 'EFX_ADD' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 19) compiling module 'EFX_FF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 36) compiling module 'EFX_GBUFCE' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 45) compiling module 'EFX_IDDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 59) compiling module 'EFX_ODDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 75) compiling module 'EFX_IOBUF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 87) compiling module 'EFX_LUT4' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 95) compiling module 'EFX_MULT' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 130) compiling module 'EFX_RAM_4K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 190) compiling module 'EFX_RAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 262) compiling module 'EFX_DPRAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 367) compiling module 'RAMB5' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 429) compiling module 'EFX_RAM_10K' (VERI-1018)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2993) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2994) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3210) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3214) Removing unconnected net : trigger_in
+[EFX-0677 INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 424) Zero initialization of uninitialized memory block 'ram'.
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2069) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2072) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2076) Removing unconnected net : din[18]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[18]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2350) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2363) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2364) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 647) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 649) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 650) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 654) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 665) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 676) Removing unconnected net : probe7[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 677) Removing unconnected net : probe8[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1065) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 2s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "edb_top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b0100,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b0100,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b010,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b010,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=7,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=7,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=19,ADDR_WIDTH=13,RAM_INIT_FILE="")" begin
+[EFX-0000 INFO] ... Clocked Read Port Synthesis for ram net: ram
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=19,ADDR_WIDTH=13,RAM_INIT_FILE="")" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=19,ADDR_WIDTH=13)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=19,ADDR_WIDTH=13)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=18,DATA_DEPTH=8192)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=18,DATA_DEPTH=8192)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=7,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=7,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)" end (Real time : 11s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 2s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 1s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 1666, ed: 5922, lv: 6
+[EFX-0000 INFO] ... LUT mapping end (Real time : 11s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 1s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 12s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0009 VERI-INFO] Found 3 warnings in the post-synthesis netlist.
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	269
+[EFX-0000 INFO] EFX_LUT4        : 	1658
+[EFX-0000 INFO] EFX_FF          : 	1596
+[EFX-0000 INFO] EFX_RAM_5K      : 	38
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 0, ed: 0, lv: 1
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 1s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 2s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	273
+[EFX-0000 INFO] EFX_LUT4        : 	1680
+[EFX-0000 INFO] EFX_FF          : 	1622
+[EFX-0000 INFO] EFX_RAM_5K      : 	38
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0009 VERI-INFO] The default VHDL library search path is now "C:/Efinity/2019.3/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 127) port 'probe7' remains unconnected for this instance (VERI-1927)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 10) compiling module 'edb_top' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 500) compiling module 'edb_la_top(NUM_PROBES=7,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 201) compiling module 'adbg_crc32' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2987) compiling module 'compare_unit(WIDTH=11'b01,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2987) compiling module 'compare_unit(WIDTH=11'b01000,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2987) compiling module 'compare_unit(WIDTH=11'b0100,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2987) compiling module 'compare_unit(WIDTH=11'b010,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3202) compiling module 'trigger_unit(WIDTH=7,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2328) compiling module 'la_biu(CAPTURE_WIDTH=18,DATA_DEPTH=8192)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2061) compiling module 'fifo_with_read(DATA_WIDTH=19,ADDR_WIDTH=13)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2132) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2139) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2143) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2144) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2148) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2150) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2162) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2164) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2171) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2014) compiling module 'fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2039) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2042) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2254) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 409) compiling module 'simple_dual_port_ram(DATA_WIDTH=19,ADDR_WIDTH=13,RAM_INIT_FILE="")' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1065) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 279) compiling module 'debug_hub' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 100) input port 'probe7[0]' is not connected on this instance (VDB-1013)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 6) compiling module 'EFX_ADD' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 19) compiling module 'EFX_FF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 36) compiling module 'EFX_GBUFCE' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 45) compiling module 'EFX_IDDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 59) compiling module 'EFX_ODDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 75) compiling module 'EFX_IOBUF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 87) compiling module 'EFX_LUT4' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 95) compiling module 'EFX_MULT' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 130) compiling module 'EFX_RAM_4K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 190) compiling module 'EFX_RAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 262) compiling module 'EFX_DPRAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 367) compiling module 'RAMB5' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 429) compiling module 'EFX_RAM_10K' (VERI-1018)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2993) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2994) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3210) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3214) Removing unconnected net : trigger_in
+[EFX-0677 INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 424) Zero initialization of uninitialized memory block 'ram'.
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2069) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2072) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2076) Removing unconnected net : din[18]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[18]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2350) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2363) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2364) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 647) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 649) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 650) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 654) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 665) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 676) Removing unconnected net : probe7[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 677) Removing unconnected net : probe8[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1065) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 1s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "edb_top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b0100,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b0100,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b010,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b010,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=7,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=7,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=19,ADDR_WIDTH=13,RAM_INIT_FILE="")" begin
+[EFX-0000 INFO] ... Clocked Read Port Synthesis for ram net: ram
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=19,ADDR_WIDTH=13,RAM_INIT_FILE="")" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=19,ADDR_WIDTH=13)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=19,ADDR_WIDTH=13)" end (Real time : 1s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=18,DATA_DEPTH=8192)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=18,DATA_DEPTH=8192)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=7,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=7,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)" end (Real time : 10s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 2s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 1666, ed: 5922, lv: 6
+[EFX-0000 INFO] ... LUT mapping end (Real time : 12s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 12s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0009 VERI-INFO] Found 3 warnings in the post-synthesis netlist.
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	269
+[EFX-0000 INFO] EFX_LUT4        : 	1658
+[EFX-0000 INFO] EFX_FF          : 	1596
+[EFX-0000 INFO] EFX_RAM_5K      : 	38
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 0, ed: 0, lv: 1
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 1s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 2s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	273
+[EFX-0000 INFO] EFX_LUT4        : 	1680
+[EFX-0000 INFO] EFX_FF          : 	1622
+[EFX-0000 INFO] EFX_RAM_5K      : 	38
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0009 VERI-INFO] The default VHDL library search path is now "C:/Efinity/2019.3/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 143) port 'probe11' remains unconnected for this instance (VERI-1927)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 10) compiling module 'edb_top' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 516) compiling module 'edb_la_top(NUM_PROBES=11,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 217) compiling module 'adbg_crc32' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3003) compiling module 'compare_unit(WIDTH=11'b01,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3003) compiling module 'compare_unit(WIDTH=11'b01000,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3149) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3152) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3155) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3158) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3003) compiling module 'compare_unit(WIDTH=11'b0100,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3149) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3152) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3155) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3158) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3003) compiling module 'compare_unit(WIDTH=11'b010,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3149) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3152) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3155) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3158) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3218) compiling module 'trigger_unit(WIDTH=11,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2344) compiling module 'la_biu(CAPTURE_WIDTH=22,DATA_DEPTH=8192)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2077) compiling module 'fifo_with_read(DATA_WIDTH=23,ADDR_WIDTH=13)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2148) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2155) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2159) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2160) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2164) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2166) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2178) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2180) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2187) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2030) compiling module 'fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2055) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2058) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2270) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 425) compiling module 'simple_dual_port_ram(DATA_WIDTH=23,ADDR_WIDTH=13,RAM_INIT_FILE="")' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1081) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 295) compiling module 'debug_hub' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 112) input port 'probe11[0]' is not connected on this instance (VDB-1013)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 6) compiling module 'EFX_ADD' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 19) compiling module 'EFX_FF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 36) compiling module 'EFX_GBUFCE' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 45) compiling module 'EFX_IDDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 59) compiling module 'EFX_ODDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 75) compiling module 'EFX_IOBUF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 87) compiling module 'EFX_LUT4' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 95) compiling module 'EFX_MULT' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 130) compiling module 'EFX_RAM_4K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 190) compiling module 'EFX_RAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 262) compiling module 'EFX_DPRAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 367) compiling module 'RAMB5' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 429) compiling module 'EFX_RAM_10K' (VERI-1018)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3009) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3010) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3007) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3007) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3007) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3226) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3230) Removing unconnected net : trigger_in
+[EFX-0677 INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 440) Zero initialization of uninitialized memory block 'ram'.
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2085) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2088) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2092) Removing unconnected net : din[22]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[22]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2366) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2379) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2380) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 663) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 665) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 666) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 670) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 681) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 696) Removing unconnected net : probe11[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 697) Removing unconnected net : probe12[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1081) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 2s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "edb_top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b0100,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b0100,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b010,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b010,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=11,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=11,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=23,ADDR_WIDTH=13,RAM_INIT_FILE="")" begin
+[EFX-0000 INFO] ... Clocked Read Port Synthesis for ram net: ram
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=23,ADDR_WIDTH=13,RAM_INIT_FILE="")" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=23,ADDR_WIDTH=13)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=23,ADDR_WIDTH=13)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=22,DATA_DEPTH=8192)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=22,DATA_DEPTH=8192)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=11,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=11,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)" end (Real time : 11s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 3s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 2273, ed: 8088, lv: 6
+[EFX-0000 INFO] ... LUT mapping end (Real time : 16s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 1s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 17s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0009 VERI-INFO] Found 3 warnings in the post-synthesis netlist.
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	269
+[EFX-0000 INFO] EFX_LUT4        : 	2265
+[EFX-0000 INFO] EFX_FF          : 	2172
+[EFX-0000 INFO] EFX_RAM_5K      : 	46
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 0, ed: 0, lv: 1
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 1s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 2s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	273
+[EFX-0000 INFO] EFX_LUT4        : 	2291
+[EFX-0000 INFO] EFX_FF          : 	2201
+[EFX-0000 INFO] EFX_RAM_5K      : 	46
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0009 VERI-INFO] The default VHDL library search path is now "C:/Efinity/2019.3/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 143) port 'probe11' remains unconnected for this instance (VERI-1927)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 10) compiling module 'edb_top' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 516) compiling module 'edb_la_top(NUM_PROBES=11,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 217) compiling module 'adbg_crc32' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3003) compiling module 'compare_unit(WIDTH=11'b01,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3003) compiling module 'compare_unit(WIDTH=11'b01000,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3149) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3152) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3155) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3158) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3003) compiling module 'compare_unit(WIDTH=11'b0100,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3149) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3152) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3155) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3158) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3003) compiling module 'compare_unit(WIDTH=11'b010,PIPE=1)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3149) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3152) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3155) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3158) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3218) compiling module 'trigger_unit(WIDTH=11,PIPE=1)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2344) compiling module 'la_biu(CAPTURE_WIDTH=22,DATA_DEPTH=8192)' (VERI-1018)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2077) compiling module 'fifo_with_read(DATA_WIDTH=23,ADDR_WIDTH=13)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2148) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2155) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2159) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2160) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2164) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2166) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2178) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2180) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2187) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2030) compiling module 'fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2055) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2058) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2270) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 425) compiling module 'simple_dual_port_ram(DATA_WIDTH=23,ADDR_WIDTH=13,RAM_INIT_FILE="")' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1081) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0009 VERI-INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 295) compiling module 'debug_hub' (VERI-1018)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 112) input port 'probe11[0]' is not connected on this instance (VDB-1013)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 6) compiling module 'EFX_ADD' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 19) compiling module 'EFX_FF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 36) compiling module 'EFX_GBUFCE' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 45) compiling module 'EFX_IDDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 59) compiling module 'EFX_ODDR' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 75) compiling module 'EFX_IOBUF' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 87) compiling module 'EFX_LUT4' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 95) compiling module 'EFX_MULT' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 130) compiling module 'EFX_RAM_4K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 190) compiling module 'EFX_RAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 262) compiling module 'EFX_DPRAM_5K' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 367) compiling module 'RAMB5' (VERI-1018)
+[EFX-0009 VERI-INFO] (C:/Efinity/2019.3/sim_models/maplib/efinix_maplib.v 429) compiling module 'EFX_RAM_10K' (VERI-1018)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3009) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3010) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3007) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3007) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3007) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3226) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3230) Removing unconnected net : trigger_in
+[EFX-0677 INFO] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 440) Zero initialization of uninitialized memory block 'ram'.
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2085) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2088) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2092) Removing unconnected net : din[22]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[22]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2366) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2379) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2380) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 663) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 665) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 666) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 670) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 681) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 696) Removing unconnected net : probe11[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 697) Removing unconnected net : probe12[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1081) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 2s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "edb_top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "adbg_crc32" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b01000,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b0100,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b0100,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b010,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "compare_unit(WIDTH=11'b010,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=11,PIPE=1)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "trigger_unit(WIDTH=11,PIPE=1)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_address_trancode_unit(TOTAL_ADDR_WIDTH=13,CELL_ADDR_WIDTH=14)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=23,ADDR_WIDTH=13,RAM_INIT_FILE="")" begin
+[EFX-0000 INFO] ... Clocked Read Port Synthesis for ram net: ram
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "simple_dual_port_ram(DATA_WIDTH=23,ADDR_WIDTH=13,RAM_INIT_FILE="")" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=23,ADDR_WIDTH=13)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "fifo_with_read(DATA_WIDTH=23,ADDR_WIDTH=13)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=22,DATA_DEPTH=8192)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "la_biu(CAPTURE_WIDTH=22,DATA_DEPTH=8192)" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=11,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_la_top(NUM_PROBES=11,DATA_DEPTH=8192,INPUT_PIPE_STAGES=1,PROBE3_WIDTH=8,PROBE5_WIDTH=4,PROBE6_WIDTH=2)" end (Real time : 11s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "debug_hub" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 3s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 1s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 2273, ed: 8088, lv: 6
+[EFX-0000 INFO] ... LUT mapping end (Real time : 16s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 1s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 17s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0009 VERI-INFO] Found 3 warnings in the post-synthesis netlist.
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	269
+[EFX-0000 INFO] EFX_LUT4        : 	2265
+[EFX-0000 INFO] EFX_FF          : 	2172
+[EFX-0000 INFO] EFX_RAM_5K      : 	46
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "edb_top" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis begin
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 1s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 0, ed: 0, lv: 1
+[EFX-0000 INFO] ... LUT mapping end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 2s)
+[EFX-0000 INFO] ... Top level netlist RUSHC IOs pre-synthesis end (Real time : 3s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_ADD         : 	273
+[EFX-0000 INFO] EFX_LUT4        : 	2291
+[EFX-0000 INFO] EFX_FF          : 	2201
+[EFX-0000 INFO] EFX_RAM_5K      : 	46
+[EFX-0000 INFO] EFX_GBUFCE      : 	2
+[EFX-0000 INFO] =============================== 

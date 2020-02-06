@@ -1,0 +1,378 @@
+{
+    "debug_cores": [
+        {
+            "trigout_en": false,
+            "data_depth": 8192,
+            "probes": [
+                {
+                    "width": 1,
+                    "probe_type": 1,
+                    "name": "spi_slave/mosi_d0"
+                },
+                {
+                    "width": 1,
+                    "probe_type": 1,
+                    "name": "spi_slave/spi_clk_d0"
+                },
+                {
+                    "width": 1,
+                    "probe_type": 1,
+                    "name": "spi_slave/spi_ss_d0"
+                },
+                {
+                    "width": 8,
+                    "probe_type": 1,
+                    "name": "data_o"
+                },
+                {
+                    "width": 1,
+                    "probe_type": 1,
+                    "name": "data_en_o"
+                },
+                {
+                    "width": 4,
+                    "probe_type": 1,
+                    "name": "spi_slave/cnt"
+                },
+                {
+                    "width": 2,
+                    "probe_type": 1,
+                    "name": "spi_slave/state"
+                },
+                {
+                    "width": 1,
+                    "probe_type": 1,
+                    "name": "spi_slave/clk_raise"
+                },
+                {
+                    "width": 1,
+                    "probe_type": 1,
+                    "name": "spi_slave/clk_fall"
+                },
+                {
+                    "width": 1,
+                    "probe_type": 1,
+                    "name": "spi_slave/ss_raise"
+                },
+                {
+                    "width": 1,
+                    "probe_type": 1,
+                    "name": "spi_slave/ss_fall"
+                }
+            ],
+            "type": "la",
+            "auto_inserted": true,
+            "capture_control": false,
+            "name": "la0",
+            "trigin_en": false
+        }
+    ],
+    "connections": [
+        {
+            "args": {
+                "ports": [
+                    {
+                        "width": 1,
+                        "name": "jtag_inst1_CAPTURE",
+                        "dir": "in"
+                    },
+                    {
+                        "width": 1,
+                        "name": "jtag_inst1_DRCK",
+                        "dir": "in"
+                    },
+                    {
+                        "width": 1,
+                        "name": "jtag_inst1_RESET",
+                        "dir": "in"
+                    },
+                    {
+                        "width": 1,
+                        "name": "jtag_inst1_RUNTEST",
+                        "dir": "in"
+                    },
+                    {
+                        "width": 1,
+                        "name": "jtag_inst1_SEL",
+                        "dir": "in"
+                    },
+                    {
+                        "width": 1,
+                        "name": "jtag_inst1_SHIFT",
+                        "dir": "in"
+                    },
+                    {
+                        "width": 1,
+                        "name": "jtag_inst1_TCK",
+                        "dir": "in"
+                    },
+                    {
+                        "width": 1,
+                        "name": "jtag_inst1_TDI",
+                        "dir": "in"
+                    },
+                    {
+                        "width": 1,
+                        "name": "jtag_inst1_TMS",
+                        "dir": "in"
+                    },
+                    {
+                        "width": 1,
+                        "name": "jtag_inst1_UPDATE",
+                        "dir": "in"
+                    },
+                    {
+                        "width": 1,
+                        "name": "jtag_inst1_TDO",
+                        "dir": "out"
+                    }
+                ],
+                "netlist": "top"
+            },
+            "id": 1,
+            "command": "add_ports"
+        },
+        {
+            "instance": "edb_top_inst",
+            "netlist": "edb_top",
+            "id": 2,
+            "command": "instantiate"
+        },
+        {
+            "args": {
+                "ports": [
+                    {
+                        "net": "jtag_inst1_CAPTURE",
+                        "name": "bscan_CAPTURE"
+                    },
+                    {
+                        "net": "jtag_inst1_DRCK",
+                        "name": "bscan_DRCK"
+                    },
+                    {
+                        "net": "jtag_inst1_RESET",
+                        "name": "bscan_RESET"
+                    },
+                    {
+                        "net": "jtag_inst1_RUNTEST",
+                        "name": "bscan_RUNTEST"
+                    },
+                    {
+                        "net": "jtag_inst1_SEL",
+                        "name": "bscan_SEL"
+                    },
+                    {
+                        "net": "jtag_inst1_SHIFT",
+                        "name": "bscan_SHIFT"
+                    },
+                    {
+                        "net": "jtag_inst1_TCK",
+                        "name": "bscan_TCK"
+                    },
+                    {
+                        "net": "jtag_inst1_TDI",
+                        "name": "bscan_TDI"
+                    },
+                    {
+                        "net": "jtag_inst1_TMS",
+                        "name": "bscan_TMS"
+                    },
+                    {
+                        "net": "jtag_inst1_UPDATE",
+                        "name": "bscan_UPDATE"
+                    },
+                    {
+                        "net": "jtag_inst1_TDO",
+                        "name": "bscan_TDO"
+                    },
+                    {
+                        "net": "clk",
+                        "name": "la0_clk"
+                    },
+                    {
+                        "net": "spi_slave/mosi_d0",
+                        "name": "la0_probe0"
+                    },
+                    {
+                        "net": "spi_slave/spi_clk_d0",
+                        "name": "la0_probe1"
+                    },
+                    {
+                        "net": "spi_slave/spi_ss_d0",
+                        "name": "la0_probe2"
+                    },
+                    {
+                        "net": "data_o[0]",
+                        "name": "la0_probe3[0]"
+                    },
+                    {
+                        "net": "data_o[1]",
+                        "name": "la0_probe3[1]"
+                    },
+                    {
+                        "net": "data_o[2]",
+                        "name": "la0_probe3[2]"
+                    },
+                    {
+                        "net": "data_o[3]",
+                        "name": "la0_probe3[3]"
+                    },
+                    {
+                        "net": "data_o[4]",
+                        "name": "la0_probe3[4]"
+                    },
+                    {
+                        "net": "data_o[5]",
+                        "name": "la0_probe3[5]"
+                    },
+                    {
+                        "net": "data_o[6]",
+                        "name": "la0_probe3[6]"
+                    },
+                    {
+                        "net": "data_o[7]",
+                        "name": "la0_probe3[7]"
+                    },
+                    {
+                        "net": "data_en_o",
+                        "name": "la0_probe4"
+                    },
+                    {
+                        "net": "spi_slave/cnt[0]",
+                        "name": "la0_probe5[0]"
+                    },
+                    {
+                        "net": "spi_slave/cnt[1]",
+                        "name": "la0_probe5[1]"
+                    },
+                    {
+                        "net": "spi_slave/cnt[2]",
+                        "name": "la0_probe5[2]"
+                    },
+                    {
+                        "net": "spi_slave/cnt[3]",
+                        "name": "la0_probe5[3]"
+                    },
+                    {
+                        "net": "spi_slave/state[0]",
+                        "name": "la0_probe6[0]"
+                    },
+                    {
+                        "net": "spi_slave/state[1]",
+                        "name": "la0_probe6[1]"
+                    },
+                    {
+                        "net": "spi_slave/clk_raise",
+                        "name": "la0_probe7"
+                    },
+                    {
+                        "net": "spi_slave/clk_fall",
+                        "name": "la0_probe8"
+                    },
+                    {
+                        "net": "spi_slave/ss_raise",
+                        "name": "la0_probe9"
+                    },
+                    {
+                        "net": "spi_slave/ss_fall",
+                        "name": "la0_probe10"
+                    }
+                ],
+                "instance": "edb_top_inst"
+            },
+            "id": 3,
+            "command": "connect"
+        }
+    ],
+    "session": {
+        "wizard": {
+            "capture_control": false,
+            "selected": [
+                {
+                    "width": 1,
+                    "clk_domain": "clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "name": "spi_slave/mosi_d0",
+                    "child": []
+                },
+                {
+                    "width": 1,
+                    "clk_domain": "clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "name": "spi_slave/spi_clk_d0",
+                    "child": []
+                },
+                {
+                    "width": 1,
+                    "clk_domain": "clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "name": "spi_slave/spi_ss_d0",
+                    "child": []
+                },
+                {
+                    "width": 8,
+                    "clk_domain": "clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "name": "data_o",
+                    "child": []
+                },
+                {
+                    "width": 1,
+                    "clk_domain": "clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "name": "data_en_o",
+                    "child": []
+                },
+                {
+                    "width": 4,
+                    "clk_domain": "clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "name": "spi_slave/cnt",
+                    "child": []
+                },
+                {
+                    "width": 2,
+                    "clk_domain": "clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "name": "spi_slave/state",
+                    "child": []
+                },
+                {
+                    "width": 1,
+                    "clk_domain": "clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "name": "spi_slave/clk_raise",
+                    "child": []
+                },
+                {
+                    "width": 1,
+                    "clk_domain": "clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "name": "spi_slave/clk_fall",
+                    "child": []
+                },
+                {
+                    "width": 1,
+                    "clk_domain": "clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "name": "spi_slave/ss_raise",
+                    "child": []
+                },
+                {
+                    "width": 1,
+                    "clk_domain": "clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "name": "spi_slave/ss_fall",
+                    "child": []
+                }
+            ],
+            "data_depth": 8192
+        }
+    },
+    "vdbs": [
+        {
+            "file": "debug_top.post.vdb",
+            "instance": "edb_top_inst"
+        }
+    ]
+}

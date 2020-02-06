@@ -1,0 +1,43 @@
+#0 $dumpon
+$date today $end
+$timescale 10 ns $end
+$scope module top $end
+$var wire 1 0 spi_slave/mosi_d0 $end
+$var wire 1 1 spi_slave/spi_clk_d0 $end
+$var wire 1 2 spi_slave/spi_ss_d0 $end
+$var wire 8 3 data_o $end
+$var wire 1 4 data_en_o $end
+$var wire 4 5 spi_slave/cnt $end
+$var wire 2 6 spi_slave/state $end
+$var wire 1 7 spi_slave/clk_raise $end
+$var wire 1 8 spi_slave/clk_fall $end
+$var wire 1 9 spi_slave/ss_raise $end
+$var wire 1 a spi_slave/ss_fall $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+00
+01
+02
+b00100101 3
+04
+b0000 5
+b01 6
+07
+08
+09
+0a
+$end
+#8191
+00
+01
+02
+b00100101 3
+04
+b0000 5
+b01 6
+07
+08
+09
+0a

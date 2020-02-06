@@ -1,0 +1,220 @@
+{
+    "version": "1.0.0",
+    "top_module": "top",
+    "postmap": [
+        {
+            "clock_name": "",
+            "nets": [
+                {
+                    "name": "gnd",
+                    "width": 1
+                },
+                {
+                    "name": "vcc",
+                    "width": 1
+                },
+                {
+                    "name": "mosi_i",
+                    "width": 1
+                },
+                {
+                    "name": "spi_ss_i",
+                    "width": 1
+                },
+                {
+                    "name": "spi_clk_i",
+                    "width": 1
+                },
+                {
+                    "name": "rstn",
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "clock_name": "clk",
+            "nets": [
+                {
+                    "name": "mosi",
+                    "width": 1
+                },
+                {
+                    "name": "spi_ss",
+                    "width": 1
+                },
+                {
+                    "name": "spi_clk",
+                    "width": 1
+                },
+                {
+                    "name": "spi_slave\/spi_clk_d0",
+                    "width": 1
+                },
+                {
+                    "name": "spi_slave\/spi_ss_d0",
+                    "width": 1
+                },
+                {
+                    "name": "n18",
+                    "width": 1
+                },
+                {
+                    "name": "n19",
+                    "width": 1
+                },
+                {
+                    "name": "n20",
+                    "width": 1
+                },
+                {
+                    "name": "n21",
+                    "width": 1
+                },
+                {
+                    "name": "n39",
+                    "width": 1
+                },
+                {
+                    "name": "n40",
+                    "width": 1
+                },
+                {
+                    "name": "n41",
+                    "width": 1
+                },
+                {
+                    "name": "n42",
+                    "width": 1
+                },
+                {
+                    "name": "n45",
+                    "width": 1
+                },
+                {
+                    "name": "n49",
+                    "width": 1
+                },
+                {
+                    "name": "n55",
+                    "width": 1
+                },
+                {
+                    "name": "n56",
+                    "width": 1
+                },
+                {
+                    "name": "n57",
+                    "width": 1
+                },
+                {
+                    "name": "n58",
+                    "width": 1
+                },
+                {
+                    "name": "n59",
+                    "width": 1
+                },
+                {
+                    "name": "n61",
+                    "width": 1
+                },
+                {
+                    "name": "spi_slave\/mosi_d0",
+                    "width": 1
+                },
+                {
+                    "name": "n68",
+                    "width": 1
+                },
+                {
+                    "name": "n70",
+                    "width": 1
+                },
+                {
+                    "name": "n72",
+                    "width": 1
+                },
+                {
+                    "name": "n74",
+                    "width": 1
+                },
+                {
+                    "name": "n76",
+                    "width": 1
+                },
+                {
+                    "name": "n78",
+                    "width": 1
+                },
+                {
+                    "name": "n80",
+                    "width": 1
+                },
+                {
+                    "name": "n82",
+                    "width": 1
+                },
+                {
+                    "name": "n84",
+                    "width": 1
+                },
+                {
+                    "name": "n86",
+                    "width": 1
+                },
+                {
+                    "name": "data_en_o",
+                    "width": 1
+                },
+                {
+                    "name": "spi_slave\/ss_fall",
+                    "width": 1
+                },
+                {
+                    "name": "spi_slave\/ss_raise",
+                    "width": 1
+                },
+                {
+                    "name": "spi_slave\/clk_fall",
+                    "width": 1
+                },
+                {
+                    "name": "spi_slave\/clk_raise",
+                    "width": 1
+                },
+                {
+                    "name": "clk~O",
+                    "width": 1
+                },
+                {
+                    "name": "n110",
+                    "width": 1
+                },
+                {
+                    "name": "n111",
+                    "width": 1
+                },
+                {
+                    "name": "n112",
+                    "width": 1
+                },
+                {
+                    "name": "data_o",
+                    "width": 8
+                },
+                {
+                    "name": "spi_slave\/cnt",
+                    "width": 4
+                },
+                {
+                    "name": "spi_slave\/data",
+                    "width": 8
+                },
+                {
+                    "name": "spi_slave\/state",
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

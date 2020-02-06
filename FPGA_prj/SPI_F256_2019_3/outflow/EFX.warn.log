@@ -1,0 +1,656 @@
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 119) port 'probe5' remains unconnected for this instance (VERI-1927)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3125) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3128) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3131) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3134) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2124) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2131) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2135) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2136) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2140) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2142) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2154) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2156) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2163) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2031) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2034) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2246) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1057) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 94) input port 'probe5[0]' is not connected on this instance (VDB-1013)
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2985) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2986) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2983) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3202) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3206) Removing unconnected net : trigger_in
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2061) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2064) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2068) Removing unconnected net : din[12]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[12]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2342) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2355) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2356) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 639) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 641) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 642) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 646) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 657) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 666) Removing unconnected net : probe5[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 667) Removing unconnected net : probe6[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 668) Removing unconnected net : probe7[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 669) Removing unconnected net : probe8[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1057) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 119) port 'probe5' remains unconnected for this instance (VERI-1927)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3125) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3128) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3131) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3134) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2124) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2131) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2135) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2136) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2140) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2142) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2154) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2156) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2163) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2031) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2034) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2246) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1057) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 94) input port 'probe5[0]' is not connected on this instance (VDB-1013)
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2985) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2986) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2983) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3202) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3206) Removing unconnected net : trigger_in
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2061) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2064) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2068) Removing unconnected net : din[12]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[12]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2342) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2355) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2356) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 639) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 641) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 642) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 646) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 657) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 666) Removing unconnected net : probe5[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 667) Removing unconnected net : probe6[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 668) Removing unconnected net : probe7[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 669) Removing unconnected net : probe8[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1057) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1110) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 127) port 'probe7' remains unconnected for this instance (VERI-1927)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2132) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2139) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2143) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2144) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2148) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2150) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2162) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2164) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2171) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2039) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2042) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2254) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1065) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 100) input port 'probe7[0]' is not connected on this instance (VDB-1013)
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2993) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2994) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3210) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3214) Removing unconnected net : trigger_in
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2069) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2072) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2076) Removing unconnected net : din[18]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[18]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2350) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2363) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2364) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 647) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 649) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 650) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 654) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 665) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 676) Removing unconnected net : probe7[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 677) Removing unconnected net : probe8[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1065) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 127) port 'probe7' remains unconnected for this instance (VERI-1927)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2132) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2139) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2143) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2144) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2148) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2150) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2162) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2164) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2171) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2039) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2042) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2254) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1065) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 100) input port 'probe7[0]' is not connected on this instance (VDB-1013)
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2993) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2994) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3210) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3214) Removing unconnected net : trigger_in
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2069) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2072) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2076) Removing unconnected net : din[18]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[18]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2350) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2363) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2364) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 647) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 649) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 650) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 654) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 665) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 676) Removing unconnected net : probe7[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 677) Removing unconnected net : probe8[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1065) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 127) port 'probe7' remains unconnected for this instance (VERI-1927)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3133) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3136) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3139) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3142) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2132) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2139) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2143) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2144) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2148) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2150) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2162) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2164) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2171) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2039) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2042) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2254) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1065) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 100) input port 'probe7[0]' is not connected on this instance (VDB-1013)
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2993) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2994) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2991) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3210) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3214) Removing unconnected net : trigger_in
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2069) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2072) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2076) Removing unconnected net : din[18]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[18]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2350) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2363) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2364) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 647) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 649) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 650) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 654) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 665) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 676) Removing unconnected net : probe7[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 677) Removing unconnected net : probe8[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1065) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1118) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 143) port 'probe11' remains unconnected for this instance (VERI-1927)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3149) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3152) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3155) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3158) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3149) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3152) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3155) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3158) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3149) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3152) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3155) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3158) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2148) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2155) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2159) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2160) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2164) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2166) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2178) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2180) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2187) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2055) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2058) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2270) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1081) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 112) input port 'probe11[0]' is not connected on this instance (VDB-1013)
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3009) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3010) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3007) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3007) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3007) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3226) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3230) Removing unconnected net : trigger_in
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2085) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2088) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2092) Removing unconnected net : din[22]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[22]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2366) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2379) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2380) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 663) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 665) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 666) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 670) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 681) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 696) Removing unconnected net : probe11[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 697) Removing unconnected net : probe12[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1081) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 143) port 'probe11' remains unconnected for this instance (VERI-1927)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3149) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3152) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3155) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3158) expression size 8 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3149) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3152) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3155) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3158) expression size 4 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3149) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3152) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3155) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3158) expression size 2 truncated to fit in target size 1 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2148) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2155) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2159) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2160) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2164) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2166) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2178) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2180) expression size 15 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2187) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2055) expression size 14 truncated to fit in target size 13 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2058) expression size 6 truncated to fit in target size 5 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2270) expression size 32 truncated to fit in target size 14 (VERI-1209)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1081) net 'burst_write' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) net 'register_conn[2][63]' does not have a driver (VDB-1002)
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 112) input port 'probe11[0]' is not connected on this instance (VDB-1013)
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3009) Removing unconnected net : compared_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3010) Removing unconnected net : mask_in[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3007) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3007) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3007) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3226) Removing unconnected net : resetn
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 3230) Removing unconnected net : trigger_in
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2085) Removing unconnected net : next_win
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2088) Removing unconnected net : empty
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2092) Removing unconnected net : din[22]
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (next_win=0).
+[EFX-0266 WARNING] Module Instance 'fifo_with_read_inst' input pin tied to constant (din[22]=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2366) Removing unconnected net : rd_i
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2379) Removing unconnected net : trig_out
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 2380) Removing unconnected net : trig_out_ack
+[EFX-0266 WARNING] Module Instance 'la_biu_inst' input pin tied to constant (capture_enable=1).
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 663) Removing unconnected net : bscan_DRCK
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 665) Removing unconnected net : bscan_RUNTEST
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 666) Removing unconnected net : bscan_SEL
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 670) Removing unconnected net : bscan_TMS
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 681) Removing unconnected net : trig_in_ack
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 696) Removing unconnected net : probe11[0]
+[EFX-0200 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 697) Removing unconnected net : probe12[0]
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1081) Re-wiring to GND non-driven net 'burst_write'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][63]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][62]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][61]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][60]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][59]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][58]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][57]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][56]'.
+[EFX-0201 WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_dbg/debug_top.v 1134) Re-wiring to GND non-driven net 'register_conn[2][55]'.
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_in=0).
+[EFX-0266 WARNING] Module Instance 'la0' input pin tied to constant (trig_out_ack=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_inhibit[14]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[1]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[2]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[3]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[4]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[5]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[6]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[7]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[8]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[9]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[10]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[11]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[12]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[13]=0).
+[EFX-0266 WARNING] Module Instance 'debug_hub_inst' input pin tied to constant (edb_module_tdo[14]=0).
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_DRCK is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_RUNTEST is unconnected and will be removed
+[EFX-0008 VERI-WARNING] Input/Inout Port bscan_TMS is unconnected and will be removed
+[EFX-0200 WARNING] Removing unconnected net : la0_clk_2~O
+[EFX-0200 WARNING] Removing unconnected net : bscan_TCK~O

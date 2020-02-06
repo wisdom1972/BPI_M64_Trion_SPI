@@ -1,0 +1,239 @@
+
+Efinix FPGA Placement and Routing.
+Version: 2019.3.272.1.6 
+Compiled: Jan 16 2020.
+
+Copyright (C) 2013 - 2019 Efinix Inc. All rights reserved.
+
+
+The Tool Is Based on VPR of University of Toronto,
+a free open source code under MIT license.
+
+
+Running Placement and Routing for Family "Trion", Device "T20F256" ...
+
+***** Beginning stage netlist pre-processing ... *****
+Successfully Read in Verific binary Netlist dump file "F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/outflow/DEMO.dbg.vdb".
+***** Beginning VDB Netlist Checker ... *****
+VDB Netlist Checker took 2.54438 seconds.
+	VDB Netlist Checker took 2.544 seconds (approximately) in total CPU time.
+VDB Netlist Checker virtual memory usage: begin = 31.312 MB, end = 31.32 MB, delta = 0.008 MB
+	VDB Netlist Checker peak virtual memory usage = 74.728 MB
+VDB Netlist Checker resident set memory usage: begin = 37.592 MB, end = 37.804 MB, delta = 0.212 MB
+	VDB Netlist Checker peak resident set memory usage = 55.424 MB
+***** Ending VDB Netlist Checker ... *****
+Reading core interface constraints from 'F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/outflow/DEMO.interface.csv'.
+Successfully processed interface constraints file "F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/outflow/DEMO.interface.csv".
+Found 0 constant generator nets.
+Pass 0: Swept away 0 nets with no fanout.
+logical_block #6(jtag_inst1_DRCK) has no fanout.
+Removing input.
+logical_block #8(jtag_inst1_RUNTEST) has no fanout.
+Removing input.
+logical_block #13(jtag_inst1_TMS) has no fanout.
+Removing input.
+Pass 0: Swept away 3 blocks with no fanout.
+Pass 1: Swept away 0 nets with no fanout.
+Pass 1: Swept away 0 blocks with no fanout.
+Swept away 0 nets and 3 blocks in total.
+Removed 0 LUT buffers.
+Sweeped away 3 nodes.
+Successfully created VPR logical netlist from Verific binary DataBase file "F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/outflow/DEMO.dbg.vdb".
+Netlist pre-processing took 2.95366 seconds.
+	Netlist pre-processing took 2.954 seconds (approximately) in total CPU time.
+Netlist pre-processing virtual memory usage: begin = 9.628 MB, end = 39.972 MB, delta = 30.344 MB
+	Netlist pre-processing peak virtual memory usage = 74.728 MB
+Netlist pre-processing resident set memory usage: begin = 16.528 MB, end = 46.548 MB, delta = 30.02 MB
+	Netlist pre-processing peak resident set memory usage = 55.424 MB
+***** Ending stage netlist pre-processing *****
+***** Beginning stage packing ... *****
+***** Beginning stage pre-packing ... *****
+***** Ending stage pre-packing *****
+Generate proto netlist for file "F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_pnr\DEMO.net_proto" took 0.012 seconds
+Creating IO constraints file 'F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_pnr\DEMO.io_place'
+Packing took 2.773 seconds.
+	Packing took 2.773 seconds (approximately) in total CPU time.
+Packing virtual memory usage: begin = 20.332 MB, end = 29.36 MB, delta = 9.028 MB
+	Packing peak virtual memory usage = 99.532 MB
+Packing resident set memory usage: begin = 27.26 MB, end = 35.472 MB, delta = 8.212 MB
+	Packing peak resident set memory usage = 104.656 MB
+***** Ending stage packing *****
+***** Beginning stage packed netlist loading ... *****
+Read proto netlist file F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_pnr\DEMO.net_proto
+Read proto netlist for file "F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_pnr\DEMO.net_proto" took 0.002 seconds
+Setup net and block data structure took 0.257 seconds
+Packed netlist loading took 0.281867 seconds.
+	Packed netlist loading took 0.281 seconds (approximately) in total CPU time.
+Packed netlist loading virtual memory usage: begin = 25.956 MB, end = 91 MB, delta = 65.044 MB
+	Packed netlist loading peak virtual memory usage = 130.14 MB
+Packed netlist loading resident set memory usage: begin = 32.884 MB, end = 94.152 MB, delta = 61.268 MB
+	Packed netlist loading peak resident set memory usage = 133.22 MB
+***** Ending stage packed netlist loading *****
+***** Beginning stage pre-placement ... *****
+
+***** Ending stage pre-placement *****
+
+No SDC file found.  Using default timing constraint of 1 ns.
+NOTE:  Use --sdc_file <SDC_FILE> to override this behavior.
+
+
+Defaulting to: constrain all 0 inputs and 0 outputs on a virtual external clock;
+	cut paths between netlist clock domains; and
+	optimize all clocks to run as fast as possible.
+***** Beginning stage initial placement ... *****
+Reading core interface constraints from 'F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/outflow/DEMO.interface.csv'.
+Successfully processed interface constraints file "F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/outflow/DEMO.interface.csv".
+Writing IO placement constraints to 'F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/outflow\DEMO.interface.io'.
+
+Reading placement constraints from 'F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/outflow\DEMO.interface.io'.
+WARNING(1): [Line 13] Block jtag_inst1_DRCK invalid, no such block.
+WARNING(2): [Line 15] Block jtag_inst1_TMS invalid, no such block.
+WARNING(3): [Line 18] Block jtag_inst1_RUNTEST invalid, no such block.
+
+Reading placement constraints from 'F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/work_pnr\DEMO.io_place'.
+WARNING(4): Clock input pad, jtag_inst1_TCK, is placed at a GPIO location. Expect extra clock skew
+WARNING(5): Clock driver jtag_inst1_TCK should use the dedicated clock pad.
+The driver, jtag_inst1_RESET, of control net, jtag_inst1_RESET, should be placed at a dedicated control pad location.
+***** Ending stage initial placement *****
+***** Beginning stage placement ... *****
+memory map at hier_level memory(0)/mem_blk(0)
+mult map at hier_level mult(0)/mult_blk(0)
+Starting Global Placer ...
+
+ ----------     -------  --------------     -------
+  Iteration       WHPWL  Delay Max (ps) Convergence
+ ----------     -------  --------------     -------
+          1     5350368           18953         1.6%
+          2     5279648           18284         2.4%
+          3     4401202           16172         3.0%
+          4     4348840           16347         5.1%
+          5     3244631           15078        10.0%
+          6     2218326           15789        17.6%
+          7     1921049           14429        23.2%
+          8     1852299           14488        26.6%
+          9     2355230           13123        26.6%
+         10     2242114           13519        26.8%
+         11     2283955           13497        29.1%
+         12     2207048           13803        33.2%
+         13      756810           14173        33.2%
+         14      581032           14621        34.0%
+         15      482835           14483        37.8%
+         16      343987           14751        37.8%
+         17      314151           14473        40.5%
+         18      268022           14657        41.0%
+         19      263346           14840        41.0%
+         20      249927           13098        42.5%
+         21      248354           13655        45.1%
+         22      209422           13689        46.5%
+         23      208765           14423        50.1%
+         24      208405           13550        50.1%
+         25      187610           14184        50.1%
+         26      194578           12647        50.1%
+         27      198517           14129        50.1%
+         28      200097           13233        50.1%
+         29      187037           13782        51.0%
+         30      173560           13971        56.1%
+         31      166799           13975        58.6%
+         32      161573           13105        59.4%
+         33      157085           14068        62.4%
+         34      152145           14076        63.7%
+         35      153761           13374        67.4%
+         36      148705           13898        70.5%
+         37      144753           13712        73.3%
+         38      140980           13684        75.7%
+         39      136600           13390        78.1%
+         40      136023           12877        79.7%
+         41      135120           12441        80.8%
+         42      133334           11970        83.6%
+         43      131891           11743        84.8%
+         44      131451           12406        86.1%
+         45      133171           12473        87.1%
+         46      131641           12466        88.5%
+         47      130882           12499        89.6%
+         48      130289           12817        90.9%
+         49      130789           12692        91.5%
+         50      131378           12261        92.2%
+         51      132693           12879        92.8%
+         52      132518           12894        93.5%
+         53      133000           11723        94.3%
+         54      133551           11841        94.8%
+         55      134039           12048        95.3%
+         56      132605           11882        95.3%
+         57      132714           11843        96.7%
+         58      133145           11894        97.6%
+         59      133107           12127        98.1%
+         60      133458           12042        98.3%
+         61      134502           12332        98.4%
+         62      134983           11664        98.9%
+Starting Legalization ... 
+Starting Annealer
+
+ ----------     -------  --------------     -------
+  Iteration       WHPWL  Delay Max (ps)     R Limit
+ ----------     -------  --------------     -------
+          0      134983           12695        30.0
+          1      110423           11180        30.0
+          2       83305           11559        29.3
+          3       83113           10693        30.0
+          4       78244           10792        29.6
+          5       77835            9530        29.2
+          6       77425            9579        28.2
+          7       78402            9212        27.3
+          8       77722            9129        26.0
+          9       77561            9066        24.6
+         10       77598            8641        23.1
+         11       77370            8741        21.9
+         12       77808            8665        20.5
+         13       77947            8611        19.2
+         14       77792            8358        17.9
+         15       76785            8384        16.7
+         16       76215            7966        15.5
+         17       76124            7966        14.4
+         18       75726            8203        13.5
+         19       75033            7759        12.6
+         20       74922            7731        11.7
+         21       73984            7731        10.9
+         22       73908            7724        10.2
+         23       73234            7946         9.5
+         24       72839            7953         8.9
+         25       72429            7978         8.3
+         26       71955            7600         7.7
+         27       71149            7548         7.2
+         28       70973            7405         6.7
+         29       70471            7405         6.2
+         30       70053            7395         5.8
+         31       69845            7738         5.4
+         32       69522            7738         5.1
+         33       69102            7738         4.8
+         34       68778            7461         4.4
+         35       68313            7329         4.2
+         36       67990            7339         3.9
+         37       67685            7372         3.7
+         38       67486            7293         3.4
+         39       67224            7339         3.2
+         40       67088            7339         3.0
+         41       66971            7372         2.8
+         42       66946            7805         2.7
+         43       66587            7805         2.5
+         44       66478            7805         2.3
+         45       66302            7805         2.2
+         46       66116            7805         2.1
+         47       65936            7745         1.9
+Placement successful: 4444 cells are placed
+Peak congestion smeared over 1/4 of the chip is 0.177475 at 49,66
+Congestion-weighted HPWL per net: 13.1664
+
+Reading placement constraints from 'F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/outflow/DEMO.qplace'.
+Finish Realign Types (687 blocks need type change)
+
+Completed placement consistency check successfully.
+
+Placement estimated critical path delay: 7.62648 ns
+Successfully created FPGA place file 'F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/outflow/DEMO.place'
+Placement took 31.8371 seconds.
+	Placement took 31.837 seconds (approximately) in total CPU time.
+Placement virtual memory usage: begin = 92.892 MB, end = 142.048 MB, delta = 49.156 MB
+	Placement peak virtual memory usage = 274.36 MB
+Placement resident set memory usage: begin = 96.572 MB, end = 145.012 MB, delta = 48.44 MB
+	Placement peak resident set memory usage = 271.944 MB
+***** Ending stage placement *****

@@ -1,0 +1,155 @@
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 63) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'ila_d'.
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 63) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 63) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 65) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/mosi_d0 is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 65) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/mosi_d0 is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 65) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/mosi_d0 is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 65) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/mosi_d0 is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 65) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/mosi_d0 is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 69) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/mosi_d0 is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 69) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/mosi_d0 is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 69) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/mosi_d0 is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/ss_fall is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/ss_raise is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/clk_fall is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 69) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/mosi_d0 is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/ss_fall is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/ss_raise is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/clk_fall is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 69) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/mosi_d0 is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/ss_fall is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/ss_raise is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/clk_fall is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling
+[EFX-0008 VERI-WARNING] (F:/efinity_prj/rasp_pi/SPI/SPI_F256_2019_3/spi_slave.v 69) expression size 5 truncated to fit in target size 4 (VERI-1209)
+[EFX-0008 VERI-WARNING] Net data_o[3] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/mosi_d0 is dangling
+[EFX-0008 VERI-WARNING] Net data_o[4] is dangling
+[EFX-0008 VERI-WARNING] Net data_en_o is dangling
+[EFX-0008 VERI-WARNING] Net data_o[5] is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/ss_fall is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/ss_raise is dangling
+[EFX-0008 VERI-WARNING] Net spi_slave/clk_fall is dangling
+[EFX-0008 VERI-WARNING] Net data_o[0] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[1] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[6] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[7] is dangling
+[EFX-0008 VERI-WARNING] Net data_o[2] is dangling

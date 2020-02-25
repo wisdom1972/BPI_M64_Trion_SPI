@@ -2,7 +2,7 @@
 Banana Pi M64 communicate with Efinix Trion FPAG double way based on SPI interface
 
 
-## 采用Efinix Trion系列FPGA快速设计MIPI接口的摄像头应用
+## 采用Efinix Trion系列FPGA与BananaPi SPI 进行通信
 
 ```
         .-"""-.
